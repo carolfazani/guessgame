@@ -1,0 +1,9 @@
+setup.py
+GuessingGameTwo.egg-info/PKG-INFO
+GuessingGameTwo.egg-info/SOURCES.txt
+GuessingGameTwo.egg-info/dependency_links.txt
+GuessingGameTwo.egg-info/entry_points.txt
+GuessingGameTwo.egg-info/requires.txt
+GuessingGameTwo.egg-info/top_level.txt
+ggame/__init__.py
+ggame/__main__.py
